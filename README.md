@@ -24,5 +24,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me:<a href ="www.linkedin.com/in/pranay007/" target ="_Blank">Pranay Bedse</a>
 
 <p align = “center">
-      <a href ="www.linkedin.com/in/pranay007/" target= "_blank" ><img src ="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" hight = "30" width ="30" </a>
+      <a href ="www.linkedin.com/in/pranay007/" target= "_blank" ><img src ="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" hight = "30" width ="30" </a> &nbsp;&nbsp;&nbsp;&nbsp;
 </p>
