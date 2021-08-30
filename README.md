@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 <hi align = "center"> Hi there, I am Pranay Bedse 👋 </h1>
 
-- 🔭 I’m currently working on <a> Pythone and Machine Learning Projects </a>
+- 🔭 I’m currently working on <strong> Pythone and Machine Learning Projects </strong>
 - 💬 Ask me about <strong> Python, Machine Learning, Statistics and SQL </strong>
 - 🌱 I’m currently learning <strong> Data science & Its application </strong>
 - 📫 How to reach me:<a href ="www.linkedin.com/in/pranay007" target ="_Blank">Pranay Bedse</a>
