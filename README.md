@@ -14,3 +14,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+<hi align = "center"> Hi there, I am Pranay Bedse 👋 </h1>
+
+- 🔭 I’m currently working on <a> Pythone and Machine Learning Projects </a>
+- 💬 Ask me about <strong> Python, Machine Learning, Statistics and SQL </strong>
+- 🌱 I’m currently learning <strong> Data science & Its application </strong>
+- 📫 How to reach me: <a href: "www.linkedin.com/in/pranay007/" target = "_Blank" >Pranay Bedse</a>
+
+<p aligh = “center">
+      <a href ="www.linkedin.com/in/pranay007/" target= "_blank" ><img src ="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" hight = "30" width ="30" </a>
+</p>
