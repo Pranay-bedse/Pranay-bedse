@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning <strong> Data science & Its application </strong>
 - 📫 How to reach me:<a href ="www.linkedin.com/in/pranay007" target ="_Blank">Pranay Bedse</a>
 
-<Img src="https://github-readme-stats.vercel.app/api?username=Pranay-bedse&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
+< Img src="https://github-readme-stats.vercel.app/api?username=Pranay-bedse&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
       
 <p align = “center">
       <a href ="www.linkedin.com/in/pranay007" target= "_blank" ><img src ="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" hight = "30" width ="30" </a>
