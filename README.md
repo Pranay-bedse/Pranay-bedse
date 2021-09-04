@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on <strong> Pythone and Machine Learning Projects </strong>
 - 💬 Ask me about <strong> Python, Machine Learning, Statistics and SQL </strong>
 - 🌱 I’m currently learning <strong> Data science & Its application </strong>
-- 📫 How to reach me:<a href ="www.linkedin.com/in/pranay007" target ="_Blank">Pranay Bedse</a>
+- 📫 How to reach me: <a href ="www.linkedin.com/in/pranay007" target ="_Blank">Pranay Bedse</a>
 
 <Img src="https://github-readme-stats.vercel.app/api?username=Pranay-bedse&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
       
